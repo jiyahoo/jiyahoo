@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @jiyahoo
-- 👀 I’m interested in finding out how to get out of this labyrinth
-- 🌱 I’m currently learning music sheets and violin!
-- 💞️ I’m looking to collaborate on my prg project so i can graduate hs 
-- 📫 How to reach me ... stretch ur arms 
+i am as confused as gura doing arithmetic
 
 
 <!---
